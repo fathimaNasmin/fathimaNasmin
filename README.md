@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathimanasmin&label=Profile%20views&color=0e75b6&style=flat" alt="fathimanasmin" /> </p>
 
-- 🔭 I’m currently working on [LMS](https://github.com/fathimaNasmin/lms-django-project)
+- 🔭 I’m currently Learning on DRF
 
 - 🌱 I’m currently learning Web development **Django Framework**
 

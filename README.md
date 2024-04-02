@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathimanasmin&label=Profile%20views&color=0e75b6&style=flat" alt="fathimanasmin" /> </p>
 
-- 🔭 I’m currently Learning on DRF
+- 🔭 I’m currently Learning on ReactJS
 
 - 🌱 I’m currently learning Web development **Django Framework**
 
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **fathima.nasmin@icloud.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/175x67AOhG4aoC2fbArqK2DlU8afZuhaR/view?usp=drive_link](https://drive.google.com/file/d/175x67AOhG4aoC2fbArqK2DlU8afZuhaR/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

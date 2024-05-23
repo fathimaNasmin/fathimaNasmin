@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently Learning on ReactJS
 
-- 🌱 I’m currently learning Web development **Django Framework**
-
 - 👨‍💻 All of my projects are available at [https://github.com/fathimaNasmin](https://github.com/fathimaNasmin)
 
 - 💬 Ask me about **Python,Django,Javascript**

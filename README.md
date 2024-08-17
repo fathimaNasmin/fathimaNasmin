@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fathima Nasmin</h1>
-<h3 align="center">A passionate Backend developer from United States</h3>
+<h3 align="center">Full Stack Developer | India-born, USA-based </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathimanasmin&label=Profile%20views&color=0e75b6&style=flat" alt="fathimanasmin" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fathimaNasmin](https://github.com/fathimaNasmin)
 
-- 💬 Ask me about **Python,Django,Javascript**
+- 💬 Ask me about **Python,Django,DRF,Javascript,React,Node,Express**
 
 - 📫 How to reach me **fathima.nasmin@icloud.com**
 

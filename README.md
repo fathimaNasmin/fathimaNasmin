@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fathima Nasmin</h1>
-<h3 align="center">iOs Developer | India-born, USA-based </h3>
+<h3 align="center">iOS Developer | India-born, USA-based </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathimanasmin&label=Profile%20views&color=0e75b6&style=flat" alt="fathimanasmin" /> </p>
 
-- 🔭 I’m currently Learning on SwiftUI
+- 🔭 I’m currently Learning on Swift, SwiftUI
 
 - 👨‍💻 All of my projects are available at [https://github.com/fathimaNasmin](https://github.com/fathimaNasmin)
 

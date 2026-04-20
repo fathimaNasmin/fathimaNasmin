@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathimanasmin&label=Profile%20views&color=0e75b6&style=flat" alt="fathimanasmin" /> </p>
 
-- 🔭 I’m currently working as a Senior developer at Pons and Speigel
+- 🔭 I’m currently working as a Senior iOS developer at Pons and Speigel
 
 - 👨‍💻 All of my projects are available at [https://github.com/fathimaNasmin](https://github.com/fathimaNasmin)
 
